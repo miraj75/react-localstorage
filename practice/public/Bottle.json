@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Aqua Pure Mineral Water",
+    "category": "Mineral Water",
+    "price": 1.25,
+    "seller": "Water World Ltd.",
+    "img": "https://via.placeholder.com/150?text=Mineral+Water+Bottle",
+    "rating": 4.5,
+    "stock": 120,
+    "ratingsCount": 230
+  },
+  {
+    "id": 2,
+    "name": "Natural Spring Water",
+    "category": "Spring Water",
+    "price": 1.5,
+    "seller": "SpringFountain",
+    "img": "https://via.placeholder.com/150?text=Spring+Water+Bottle",
+    "rating": 4.7,
+    "stock": 85,
+    "ratingsCount": 178
+  },
+  {
+    "id": 3,
+    "name": "Sparkling Citrus Water",
+    "category": "Sparkling Water",
+    "price": 1.75,
+    "seller": "Fizz Inc.",
+    "img": "https://via.placeholder.com/150?text=Sparkling+Citrus+Water",
+    "rating": 4.3,
+    "stock": 200,
+    "ratingsCount": 150
+  },
+  {
+    "id": 4,
+    "name": "Alkaline Water",
+    "category": "Alkaline Water",
+    "price": 2.0,
+    "seller": "HydrationHub",
+    "img": "https://via.placeholder.com/150?text=Alkaline+Water",
+    "rating": 4.6,
+    "stock": 60,
+    "ratingsCount": 75
+  },
+  {
+    "id": 5,
+    "name": "Berry Flavored Water",
+    "category": "Flavored Water",
+    "price": 1.99,
+    "seller": "TasteSplash",
+    "img": "https://via.placeholder.com/150?text=Berry+Flavored+Water",
+    "rating": 4.2,
+    "stock": 150,
+    "ratingsCount": 95
+  },
+  {
+    "id": 6,
+    "name": "Eco-Friendly Bamboo Bottle",
+    "category": "Reusable Bottles",
+    "price": 15.0,
+    "seller": "EcoBottle Co.",
+    "img": "https://via.placeholder.com/150?text=Bamboo+Bottle",
+    "rating": 4.8,
+    "stock": 30,
+    "ratingsCount": 40
+  },
+  {
+    "id": 7,
+    "name": "Insulated Sports Bottle",
+    "category": "Insulated Bottles",
+    "price": 10.99,
+    "seller": "SportsGear",
+    "img": "https://via.placeholder.com/150?text=Sports+Bottle",
+    "rating": 4.4,
+    "stock": 75,
+    "ratingsCount": 88
+  },
+  {
+    "id": 8,
+    "name": "Portable Glass Water Bottle",
+    "category": "Glass Bottles",
+    "price": 8.5,
+    "seller": "GlassPro",
+    "img": "https://via.placeholder.com/150?text=Glass+Water+Bottle",
+    "rating": 4.5,
+    "stock": 95,
+    "ratingsCount": 120
+  },
+  {
+    "id": 9,
+    "name": "Classic Plastic Water Bottle",
+    "category": "Plastic Bottles",
+    "price": 5.0,
+    "seller": "BottleZone",
+    "img": "https://via.placeholder.com/150?text=Plastic+Water+Bottle",
+    "rating": 3.9,
+    "stock": 300,
+    "ratingsCount": 210
+  },
+  {
+    "id": 10,
+    "name": "Collapsible Travel Bottle",
+    "category": "Travel Bottles",
+    "price": 12.99,
+    "seller": "EasyCarry",
+    "img": "https://via.placeholder.com/150?text=Travel+Bottle",
+    "rating": 4.7,
+    "stock": 45,
+    "ratingsCount": 60
+  }
+]
